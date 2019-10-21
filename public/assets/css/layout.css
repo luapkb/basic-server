@@ -8,7 +8,7 @@ form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
+section, summary, time, mark, audio{
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -113,17 +113,15 @@ table {
 p, ul, ol, dl, table {
   margin-bottom: 2em;
 }
-#main > section {
-  padding: 2em 0;
-}
 
 #main section.cover {
   padding: 4em 0em;
 }
+#myVideo{
+  width: 80%;
 
-  #main section.cover header {
-    padding: 0 1em;
-  }
+}
+
   #header{
     width: 20%;
     display: block;
@@ -140,6 +138,7 @@ p, ul, ol, dl, table {
     }
 
     .container {
+      width
       padding: 0 15px 0 15px;
     }
 

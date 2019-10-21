@@ -2048,11 +2048,6 @@ input, select, textarea {
 
 /* Main */
 
-	#main {
-		margin-left: 375px;
-		background-image: url("images/portratepass.jpg");
-	}
-
 		#main > section {
 			margin: 0;
 			overflow: hidden;
